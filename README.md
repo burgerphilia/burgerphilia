@@ -1,15 +1,16 @@
 ### 🥃 Introduction
 문명의 혜택을 맛본 뒤로 더 이상 야생으로 돌아갈 수 없게 된 이족보행보유류 윤성준입니다.
 
-### Tech stack
-* Language: Python
+### 🌈 Tech stack
+* Language: `Python`
+* Data Engineering: `PySpark`, `Airflow`
+* ML / DL: `PyTorch`
 
 ### 🌱 I’m currently learning
-* Airflow
-* PySpark
 * Kafka
+* Kubernetes
 
-### 📜Certificate
+### 📜 Certificate
 
 ### 👀 Fun fact
 * 운전면허가 없습니다.
