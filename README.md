@@ -1,5 +1,8 @@
-### Hi there 👋
+### Introduction
+문명의 혜택을 맛봐버려 더 이상 야생으로 돌아갈 수 없게된 이족보행보유류 윤성준입니다.
 
+### 📫 How to reach me
+* linkedin: https://www.linkedin.com/in/sungjoon-youn/
 <!--
 **burgerphilia/burgerphilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
