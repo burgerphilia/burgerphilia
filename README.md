@@ -7,6 +7,7 @@
 
 ### ⚡ Fun fact
 * 운전면허가 없습니다.
+* 알약을 못 삼킵니다.
 
 ### 📫 How to reach me
 * Linkedin: https://www.linkedin.com/in/sungjoon-youn/
